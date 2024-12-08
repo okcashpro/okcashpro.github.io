@@ -1,11 +1,11 @@
-# ai16z Eliza Contributors Site Generator
+# OKai Contributors Site Generator
 
-ai16z, creators of the [eliza](https://github.com/ai16z/eliza) framework. This repo generates static sites showing GitHub contributor activity.
+OK, creators of the [okai](https://github.com/okcashpro/okai) framework. This repo generates static sites showing GitHub contributor activity.
 
 
-![eliza_banner](https://github.com/user-attachments/assets/e8784793-c4d3-4d59-bba9-6d47885abe63)
+![eliza_banner](https://github.com/okcashpro/okai/blob/main/docs/static/img/okai_banner.png?raw=true)
 
-[Website](https://ai16z.ai): | [Discord](https://discord.gg/ai16z) | [Twitter/X](https://x.com/ai16zdao) | [DAO](https://www.daos.fun/HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC)
+[Website](https://okcashpro.github.com/okai/): | [Discord](https://discord.gg/grvpc8c) | [Twitter/X](https://x.com/oktokencash) | [DAO](https://okdao.org/)
 
 
 ## Setup
