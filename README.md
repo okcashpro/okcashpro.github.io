@@ -3,7 +3,7 @@
 OK, creators of the [okai](https://github.com/okcashpro/okai) framework. This repo generates static sites showing GitHub contributor activity.
 
 
-![eliza_banner](https://github.com/okcashpro/okai/blob/main/docs/static/img/okai_banner.png?raw=true)
+![okai_banner](https://github.com/okcashpro/okai/blob/main/docs/static/img/okai_banner.png?raw=true)
 
 [Website](https://okcashpro.github.com/okai/): | [Discord](https://discord.gg/grvpc8c) | [Twitter/X](https://x.com/oktokencash) | [DAO](https://okdao.org/)
 
